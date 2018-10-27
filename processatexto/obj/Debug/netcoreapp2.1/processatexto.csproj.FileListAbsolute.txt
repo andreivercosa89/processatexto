@@ -1,0 +1,11 @@
+/Users/aluno/Projects/processatexto/processatexto/bin/Debug/netcoreapp2.1/processatexto.deps.json
+/Users/aluno/Projects/processatexto/processatexto/bin/Debug/netcoreapp2.1/processatexto.runtimeconfig.json
+/Users/aluno/Projects/processatexto/processatexto/bin/Debug/netcoreapp2.1/processatexto.runtimeconfig.dev.json
+/Users/aluno/Projects/processatexto/processatexto/bin/Debug/netcoreapp2.1/processatexto.dll
+/Users/aluno/Projects/processatexto/processatexto/bin/Debug/netcoreapp2.1/processatexto.pdb
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.csprojAssemblyReference.cache
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.AssemblyInfoInputs.cache
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.AssemblyInfo.cs
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.dll
+/Users/aluno/Projects/processatexto/processatexto/obj/Debug/netcoreapp2.1/processatexto.pdb
